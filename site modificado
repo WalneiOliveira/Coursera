@@ -1,0 +1,17 @@
+Sometimes you want numbered lists:
+
+1. One
+2. Two
+3. Three
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mattis tortor ac magna dignissim, vitae ornare tellus convallis. Donec volutpat pretium tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras hendrerit vulputate sapien eget dapibus. Mauris at justo posuere, viverra risus nec, mollis massa. Morbi ex massa, dapibus in lectus finibus, pretium fringilla justo. Cras malesuada neque sit amet luctus porta. Pellentesque posuere scelerisque lacus mattis ornare. Ut eu augue ullamcorper, dictum erat ac, lacinia risus. Aliquam erat volutpat. Fusce vehicula pellentesque velit hendrerit sollicitudin. Aliquam in ipsum ac libero consequat molestie bibendum vitae dui. Aenean venenatis nec arcu sed maximus. Donec porta justo purus, vel consequat sapien rutrum in. Duis tristique nec enim non condimentum.
+
+* Start a line with a star
+* Profit!
+
+Alternatively,
+
+- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this
